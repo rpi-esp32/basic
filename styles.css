@@ -3,13 +3,6 @@
     padding: 0;
     box-sizing: border-box;
   }
-
-  div {
-    margin: 2rem;
-    border: solid red 1px;
-    color: #e74c3c;
-    filter: blur(1px);
-  }
   
   body {
     background: #fdfdfd;
@@ -41,5 +34,4 @@
   h1 {
     color: #e74c3c;
     margin-bottom: 0.5rem;
-    font: sans-serif;
   }
