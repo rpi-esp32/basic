@@ -4,6 +4,12 @@
     box-sizing: border-box;
   }
   
+  div {
+    border: "3px";
+    filter: blur(1px);
+
+  }
+
   body {
     background: #fdfdfd;
     font-family: "Nunito", sans-serif;
