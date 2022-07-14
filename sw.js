@@ -4,16 +4,16 @@
 
 
 const assets = [
- "/",
- "/index.html",
- "fav.ico", 
- "icon-192x192.png",
- "icon-512x512.png",
- "styles.css",
- "script.js",
- "svg.svg",
- "registerSW.js",
- "sw.js",
+ "/basic/",
+ "/basic/index.html",
+ "/basic/fav.ico", 
+ "/basic/maskicon.png",
+ "/basic/icon-512x512.png",
+ "/basic/styles.css",
+ "/basic/script.js",
+ "/basic/svg.svg",
+ "/basic/registerSW.js",
+ "/basic/sw.js",
 ]
 
 // console.log("maurice file sw.js FULL ASSETS"); 
